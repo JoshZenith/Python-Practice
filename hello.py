@@ -45,3 +45,11 @@ print(x + y + z)
 x = 5
 y = "John"
 print(x, y)
+
+a = "Hello, World!"
+print(a[1]) # This will print "e"
+
+a = "Hello, World!"
+print(a[0]) # This will print "H"
+
+print(y + " is " + str(x) + " years old") # This will print "John is 5 years old"
